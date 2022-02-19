@@ -1,0 +1,23 @@
+{
+  "name": "back-api",
+  "version": "1.0.0",
+  "description": "express backend test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinsmasters/back-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinsmasters/back-api/issues"
+  },
+  "homepage": "https://github.com/kevinsmasters/back-api#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
